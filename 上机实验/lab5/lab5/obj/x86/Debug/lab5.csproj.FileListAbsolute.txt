@@ -1,0 +1,7 @@
+E:\VisualStudio_Projects\上机实验\lab5\lab5\bin\Debug\lab5.exe
+E:\VisualStudio_Projects\上机实验\lab5\lab5\bin\Debug\lab5.pdb
+E:\VisualStudio_Projects\上机实验\lab5\lab5\obj\x86\Debug\lab5.Lab5_Form.resources
+E:\VisualStudio_Projects\上机实验\lab5\lab5\obj\x86\Debug\lab5.Properties.Resources.resources
+E:\VisualStudio_Projects\上机实验\lab5\lab5\obj\x86\Debug\lab5.csproj.GenerateResource.Cache
+E:\VisualStudio_Projects\上机实验\lab5\lab5\obj\x86\Debug\lab5.exe
+E:\VisualStudio_Projects\上机实验\lab5\lab5\obj\x86\Debug\lab5.pdb

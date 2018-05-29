@@ -1,0 +1,8 @@
+G:\上机文件\C#.Net\TransportLight\TransportLight\bin\Debug\TransportLight.exe
+G:\上机文件\C#.Net\TransportLight\TransportLight\bin\Debug\TransportLight.pdb
+G:\上机文件\C#.Net\TransportLight\TransportLight\obj\Debug\ResolveAssemblyReference.cache
+G:\上机文件\C#.Net\TransportLight\TransportLight\obj\Debug\TransportLight.Properties.Resources.resources
+G:\上机文件\C#.Net\TransportLight\TransportLight\obj\Debug\TransportLight.Transport.resources
+G:\上机文件\C#.Net\TransportLight\TransportLight\obj\Debug\TransportLight.csproj.GenerateResource.Cache
+G:\上机文件\C#.Net\TransportLight\TransportLight\obj\Debug\TransportLight.exe
+G:\上机文件\C#.Net\TransportLight\TransportLight\obj\Debug\TransportLight.pdb

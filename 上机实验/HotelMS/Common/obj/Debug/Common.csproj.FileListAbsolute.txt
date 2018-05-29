@@ -1,0 +1,9 @@
+E:\VisualStudio_Projects\上机实验\HotelMS\Common\bin\Debug\Maticsoft.Common.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\Common\bin\Debug\Maticsoft.Common.pdb
+E:\VisualStudio_Projects\上机实验\HotelMS\Common\bin\Debug\COM.Excel.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\Common\bin\Debug\Excel.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\Common\bin\Debug\OpenSmtp.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\Common\bin\Debug\OWC10Chart.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\VisualStudio_Projects\上机实验\HotelMS\Common\obj\Debug\Maticsoft.Common.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\Common\obj\Debug\Maticsoft.Common.pdb

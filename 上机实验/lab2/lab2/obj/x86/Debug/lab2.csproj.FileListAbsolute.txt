@@ -1,0 +1,8 @@
+E:\VisualStudio_Projects\上机实验\lab2\lab2\bin\Debug\lab2.exe
+E:\VisualStudio_Projects\上机实验\lab2\lab2\bin\Debug\lab2.pdb
+E:\VisualStudio_Projects\上机实验\lab2\lab2\obj\x86\Debug\lab2.csprojResolveAssemblyReference.cache
+E:\VisualStudio_Projects\上机实验\lab2\lab2\obj\x86\Debug\lab2.lab2Form.resources
+E:\VisualStudio_Projects\上机实验\lab2\lab2\obj\x86\Debug\lab2.Properties.Resources.resources
+E:\VisualStudio_Projects\上机实验\lab2\lab2\obj\x86\Debug\lab2.csproj.GenerateResource.Cache
+E:\VisualStudio_Projects\上机实验\lab2\lab2\obj\x86\Debug\lab2.exe
+E:\VisualStudio_Projects\上机实验\lab2\lab2\obj\x86\Debug\lab2.pdb

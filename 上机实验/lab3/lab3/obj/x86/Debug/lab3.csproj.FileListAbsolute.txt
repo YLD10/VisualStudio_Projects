@@ -1,0 +1,7 @@
+E:\VisualStudio_Projects\上机实验\lab3\lab3\obj\x86\Debug\lab3.calcu.resources
+E:\VisualStudio_Projects\上机实验\lab3\lab3\obj\x86\Debug\lab3.Properties.Resources.resources
+E:\VisualStudio_Projects\上机实验\lab3\lab3\obj\x86\Debug\lab3.csproj.GenerateResource.Cache
+E:\VisualStudio_Projects\上机实验\lab3\lab3\bin\Debug\lab3.exe
+E:\VisualStudio_Projects\上机实验\lab3\lab3\bin\Debug\lab3.pdb
+E:\VisualStudio_Projects\上机实验\lab3\lab3\obj\x86\Debug\lab3.exe
+E:\VisualStudio_Projects\上机实验\lab3\lab3\obj\x86\Debug\lab3.pdb

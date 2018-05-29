@@ -1,0 +1,11 @@
+E:\VisualStudio_Projects\上机实验\Lab7\Common\bin\Debug\Maticsoft.Common.dll
+E:\VisualStudio_Projects\上机实验\Lab7\Common\bin\Debug\Maticsoft.Common.pdb
+E:\VisualStudio_Projects\上机实验\Lab7\Common\bin\Debug\COM.Excel.dll
+E:\VisualStudio_Projects\上机实验\Lab7\Common\bin\Debug\Excel.dll
+E:\VisualStudio_Projects\上机实验\Lab7\Common\bin\Debug\OpenSmtp.dll
+E:\VisualStudio_Projects\上机实验\Lab7\Common\bin\Debug\OWC10Chart.dll
+E:\VisualStudio_Projects\上机实验\Lab7\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+E:\VisualStudio_Projects\上机实验\Lab7\Common\obj\Debug\Maticsoft.Common.dll
+E:\VisualStudio_Projects\上机实验\Lab7\Common\obj\Debug\Maticsoft.Common.pdb
+E:\VisualStudio_Projects\上机实验\Lab7\Common\bin\Debug\Maticsoft.Model.dll
+E:\VisualStudio_Projects\上机实验\Lab7\Common\bin\Debug\Maticsoft.Model.pdb

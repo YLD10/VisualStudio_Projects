@@ -1,0 +1,4 @@
+E:\VisualStudio_Projects\ConsoleDemo1\ConsoleDemo1\bin\Debug\ConsoleDemo1.exe
+E:\VisualStudio_Projects\ConsoleDemo1\ConsoleDemo1\bin\Debug\ConsoleDemo1.pdb
+E:\VisualStudio_Projects\ConsoleDemo1\ConsoleDemo1\obj\x86\Debug\ConsoleDemo1.exe
+E:\VisualStudio_Projects\ConsoleDemo1\ConsoleDemo1\obj\x86\Debug\ConsoleDemo1.pdb

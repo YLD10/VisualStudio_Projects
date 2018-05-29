@@ -1,0 +1,12 @@
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\obj\Debug\_Lab6.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\obj\Debug\_Lab6.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\bin\Debug\_Lab6.exe
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\bin\Debug\_Lab6.pdb
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\obj\Debug\_Lab6.exe
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\obj\Debug\_Lab6.pdb
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\obj\Debug\_Lab6.Form_Lab6_AboutBox_Us.resources
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\obj\Debug\_Lab6.Form_Lab6_AddItem.resources
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\obj\Debug\_Lab6.Form_Lab6_InOutRecord.resources
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\obj\Debug\_Lab6.Form_Lab6_Main.resources
+C:\Documents and Settings\Administrator\桌面\C#.Net\_Lab6\_Lab6\obj\Debug\_Lab6.Form_Lab6_Login.resources

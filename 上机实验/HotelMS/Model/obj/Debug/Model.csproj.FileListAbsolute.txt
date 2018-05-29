@@ -1,0 +1,5 @@
+E:\VisualStudio_Projects\上机实验\HotelMS\Model\bin\Debug\Maticsoft.Model.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\Model\bin\Debug\Maticsoft.Model.pdb
+E:\VisualStudio_Projects\上机实验\HotelMS\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\VisualStudio_Projects\上机实验\HotelMS\Model\obj\Debug\Maticsoft.Model.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\Model\obj\Debug\Maticsoft.Model.pdb

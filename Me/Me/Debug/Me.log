@@ -1,0 +1,27 @@
+﻿  stdafx.cpp
+e:\visualstudio_projects\me\me\stdafx.h(140): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(140): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(241): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(241): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(342): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(342): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(389): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(389): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(436): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(436): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(483): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(483): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(530): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(530): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(577): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(577): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(624): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(624): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(725): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(725): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(826): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(826): warning C4309: 'initializing': truncation of constant value
+e:\visualstudio_projects\me\me\stdafx.h(927): warning C4838: conversion from 'int' to 'const char' requires a narrowing conversion
+e:\visualstudio_projects\me\me\stdafx.h(927): warning C4309: 'initializing': truncation of constant value
+  Me.cpp
+  Me.vcxproj -> E:\VisualStudio_Projects\Me\Debug\Me.exe

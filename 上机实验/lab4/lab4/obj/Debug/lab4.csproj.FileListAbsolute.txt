@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\Projects\lab4\lab4\bin\Debug\lab4.exe
+C:\Documents and Settings\Administrator\桌面\Projects\lab4\lab4\bin\Debug\lab4.pdb
+C:\Documents and Settings\Administrator\桌面\Projects\lab4\lab4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\Projects\lab4\lab4\obj\Debug\lab4.TransportLight.resources
+C:\Documents and Settings\Administrator\桌面\Projects\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\Projects\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\Projects\lab4\lab4\obj\Debug\lab4.exe
+C:\Documents and Settings\Administrator\桌面\Projects\lab4\lab4\obj\Debug\lab4.pdb
+E:\VisualStudio_Projects\上机实验\lab4\lab4\obj\Debug\lab4.exe
+E:\VisualStudio_Projects\上机实验\lab4\lab4\obj\Debug\lab4.pdb
+E:\VisualStudio_Projects\上机实验\lab4\lab4\bin\Debug\lab4.exe
+E:\VisualStudio_Projects\上机实验\lab4\lab4\bin\Debug\lab4.pdb
+E:\VisualStudio_Projects\上机实验\lab4\lab4\obj\Debug\lab4.TransportLight.resources
+E:\VisualStudio_Projects\上机实验\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+E:\VisualStudio_Projects\上机实验\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache

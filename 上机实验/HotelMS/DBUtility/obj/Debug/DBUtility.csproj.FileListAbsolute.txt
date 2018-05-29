@@ -1,0 +1,9 @@
+E:\VisualStudio_Projects\上机实验\HotelMS\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+E:\VisualStudio_Projects\上机实验\HotelMS\DBUtility\bin\Debug\IBatisNet.Common.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\DBUtility\bin\Debug\MySql.Data.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\DBUtility\bin\Debug\System.Data.SQLite.DLL
+E:\VisualStudio_Projects\上机实验\HotelMS\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+E:\VisualStudio_Projects\上机实验\HotelMS\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+E:\VisualStudio_Projects\上机实验\HotelMS\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb

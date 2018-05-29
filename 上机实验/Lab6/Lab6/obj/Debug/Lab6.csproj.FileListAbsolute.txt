@@ -1,0 +1,21 @@
+C:\Documents and Settings\Administrator\桌面\VS_Project\Lab6\Lab6\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\VS_Project\Lab6\Lab6\obj\Debug\Lab6.AboutBox_Us.resources
+C:\Documents and Settings\Administrator\桌面\VS_Project\Lab6\Lab6\obj\Debug\Lab6.Form_Lab6_Login.resources
+C:\Documents and Settings\Administrator\桌面\VS_Project\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\VS_Project\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\VS_Project\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Documents and Settings\Administrator\桌面\VS_Project\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Documents and Settings\Administrator\桌面\VS_Project\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Documents and Settings\Administrator\桌面\VS_Project\Lab6\Lab6\obj\Debug\Lab6.pdb
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\obj\Debug\Lab6.exe
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\obj\Debug\Lab6.pdb
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\obj\Debug\Lab6.Form_Lab6_AboutBox_Us.resources
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\obj\Debug\Lab6.Form_Lab6_InOutRecord.resources
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\obj\Debug\Lab6.Form_Lab6_Login.resources
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\bin\Debug\Lab6.exe
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\bin\Debug\Lab6.pdb
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\obj\Debug\Lab6.Form_Lab6_AddItem.resources
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\obj\Debug\Lab6.Form_Lab6_Main.resources
+E:\VisualStudio_Projects\上机实验\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache

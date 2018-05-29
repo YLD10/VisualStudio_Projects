@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lab6">
+</Property><Property Name="解决方案文件" Value="E:\VisualStudio_Projects\上机实验\Lab6\Lab6.sln">
+</Property><Property Name="用户选项文件" Value="E:\VisualStudio_Projects\上机实验\Lab6\Lab6.suo">
+</Property><Property Name="Date" Value="2017年5月28日">
+</Property><Property Name="Time" Value="15:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lab6.sln" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Lab6.suo" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6.suo">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Lab6.csproj" Description="项目文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Lab6.csproj">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Form_Lab6_AboutBox_Us.cs" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Form_Lab6_AboutBox_Us.cs">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Form_Lab6_AboutBox_Us.Designer.cs" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Form_Lab6_AboutBox_Us.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Form_Lab6_InOutRecord.cs" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Form_Lab6_InOutRecord.cs">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Form_Lab6_InOutRecord.Designer.cs" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Form_Lab6_InOutRecord.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Form_Lab6_Login.cs" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Form_Lab6_Login.cs">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Form_Lab6_Login.Designer.cs" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Form_Lab6_Login.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Program.cs" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Program.cs">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Properties\Settings.settings" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Form_Lab6_AboutBox_Us.resx" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Form_Lab6_AboutBox_Us.resx">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Form_Lab6_InOutRecord.resx" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Form_Lab6_InOutRecord.resx">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Form_Lab6_Login.resx" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Form_Lab6_Login.resx">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Properties\Resources.resx" Description="文件已成功备份为 E:\VisualStudio_Projects\上机实验\Lab6\Backup\Lab6\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Lab6.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Lab6" Source="Lab6\Lab6.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lab6.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Lab6.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Lab6" Source="Lab6\Lab6.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

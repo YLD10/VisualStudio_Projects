@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{725A07E7-CFB2-444D-B860-A28E7C1EAA5B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Maticsoft.Hotel</RootNamespace>
+    <AssemblyName>Maticsoft.Hotel</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSkin">
+      <HintPath>..\..\CSkin 4.0\CSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\StaffInfo\AddStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\AddStaff.Designer.cs">
+      <DependentUpon>AddStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\RoomGoodsInfo\AddRoomGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\RoomGoodsInfo\AddRoomGoods.Designer.cs">
+      <DependentUpon>AddRoomGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\AddManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\AddManager.Designer.cs">
+      <DependentUpon>AddManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminInfo\AddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminInfo\AddAdmin.Designer.cs">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\RoomTypeInfo\AddRoomType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\RoomTypeInfo\AddRoomType.Designer.cs">
+      <DependentUpon>AddRoomType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\RoomInfo\AddRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\RoomInfo\AddRoom.Designer.cs">
+      <DependentUpon>AddRoom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminInfo\DeleteAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminInfo\DeleteAdmin.Designer.cs">
+      <DependentUpon>DeleteAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminInfo\AlterAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminInfo\AlterAdmin.Designer.cs">
+      <DependentUpon>AlterAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\AlterManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\AlterManager.Designer.cs">
+      <DependentUpon>AlterManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\ChargeManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\ChargeManager.Designer.cs">
+      <DependentUpon>ChargeManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\DeleteManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\DeleteManager.Designer.cs">
+      <DependentUpon>DeleteManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\RoomGoodsInfo\AlterRoomGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\RoomGoodsInfo\AlterRoomGoods.Designer.cs">
+      <DependentUpon>AlterRoomGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\RoomGoodsInfo\DeleteRoomGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\RoomGoodsInfo\DeleteRoomGoods.Designer.cs">
+      <DependentUpon>DeleteRoomGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\AlterStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\AlterStaff.Designer.cs">
+      <DependentUpon>AlterStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\CleanStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\CleanStaff.Designer.cs">
+      <DependentUpon>CleanStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\DeleteStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\DeleteStaff.Designer.cs">
+      <DependentUpon>DeleteStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Main_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Main_Admin.Designer.cs">
+      <DependentUpon>Main_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Main_Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Main_Manager.Designer.cs">
+      <DependentUpon>Main_Manager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Main\Admin\Main_AdminInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Admin\Main_CleanInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Admin\Main_CustomerHistoryRecordInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Admin\Main_CustomerLiveInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Admin\Main_ManagerChargeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Admin\Main_ManagerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Admin\Main_RoomGoodsInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Admin\Main_RoomInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Admin\Main_RoomTypeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Admin\Main_StaffInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Manager\Main_CleanInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Manager\Main_CustomerHistoryRecordInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Manager\Main_CustomerLiveInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Manager\Main_ManagerChargeInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Manager\Main_ManagerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Manager\Main_RoomGoodsInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main\Manager\Main_RoomInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Admin\RoomTypeInfo\UpdateRoomType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\RoomTypeInfo\UpdateRoomType.Designer.cs">
+      <DependentUpon>UpdateRoomType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\AdminInfo\SelectAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\AdminInfo\SelectAdmin.Designer.cs">
+      <DependentUpon>SelectAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\SeekManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\SeekManager.Designer.cs">
+      <DependentUpon>SeekManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\SelectManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\ManagerInfo\SelectManager.Designer.cs">
+      <DependentUpon>SelectManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\RoomGoodsInfo\SelectRoomGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\RoomGoodsInfo\SelectRoomGoods.Designer.cs">
+      <DependentUpon>SelectRoomGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\SeekStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\SeekStaff.Designer.cs">
+      <DependentUpon>SeekStaff.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\SelectStaff.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin\StaffInfo\SelectStaff.Designer.cs">
+      <DependentUpon>SelectStaff.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin\AdminInfo\AddAdmin.resx">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminInfo\AlterAdmin.resx">
+      <DependentUpon>AlterAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminInfo\deleteAdmin.resx">
+      <DependentUpon>DeleteAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\AdminInfo\SelectAdmin.resx">
+      <DependentUpon>SelectAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ManagerInfo\AddManager.resx">
+      <DependentUpon>AddManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ManagerInfo\AlterManager.resx">
+      <DependentUpon>AlterManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ManagerInfo\ChargeManager.resx">
+      <DependentUpon>ChargeManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ManagerInfo\DeleteManager.resx">
+      <DependentUpon>DeleteManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ManagerInfo\SeekManager.resx">
+      <DependentUpon>SeekManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\ManagerInfo\SelectManager.resx">
+      <DependentUpon>SelectManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\RoomGoodsInfo\AddRoomGoods.resx">
+      <DependentUpon>AddRoomGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\RoomGoodsInfo\AlterRoomGoods.resx">
+      <DependentUpon>AlterRoomGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\RoomGoodsInfo\DeleteRoomGoods.resx">
+      <DependentUpon>DeleteRoomGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\RoomGoodsInfo\SelectRoomGoods.resx">
+      <DependentUpon>SelectRoomGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\RoomInfo\AddRoom.resx">
+      <DependentUpon>AddRoom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\RoomTypeInfo\AddRoomType.resx">
+      <DependentUpon>AddRoomType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\RoomTypeInfo\UpdateRoomType.resx">
+      <DependentUpon>UpdateRoomType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\StaffInfo\AddStaff.resx">
+      <DependentUpon>AddStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\StaffInfo\AlterStaff.resx">
+      <DependentUpon>AlterStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\StaffInfo\CleanStaff.resx">
+      <DependentUpon>CleanStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\StaffInfo\DeleteStaff.resx">
+      <DependentUpon>DeleteStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\StaffInfo\SeekStaff.resx">
+      <DependentUpon>SeekStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin\StaffInfo\SelectStaff.resx">
+      <DependentUpon>SelectStaff.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Main_Admin.resx">
+      <DependentUpon>Main_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main\Main_Manager.resx">
+      <DependentUpon>Main_Manager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Admin\CleanInfo\" />
+    <Folder Include="Admin\CustomerHistoryRecordInfo\" />
+    <Folder Include="Admin\CustomerLiveInfo\" />
+    <Folder Include="Admin\ManagerChargeInfo\" />
+    <Folder Include="Manager\CleanInfo\" />
+    <Folder Include="Manager\CustomerHistoryRecordInfo\" />
+    <Folder Include="Manager\CustomerLiveInfo\" />
+    <Folder Include="Manager\ManagerChargeInfo\" />
+    <Folder Include="Manager\ManagerInfo\" />
+    <Folder Include="Manager\RoomGoodsInfo\" />
+    <Folder Include="Manager\RoomInfo\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{38D7AA58-C95B-449B-86C6-A8073A56E11F}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{E3D8759A-C5EB-402D-9F10-F5C6029A8D1A}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{53995DBB-9836-4647-AD22-865884FDEB9E}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulbPNG.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
