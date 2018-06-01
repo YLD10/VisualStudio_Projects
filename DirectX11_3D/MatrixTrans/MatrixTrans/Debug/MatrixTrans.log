@@ -38,4 +38,4 @@ c:\download\directx_sdk_9\include\xnamathconvert.inl(4832): warning C4838: conve
 c:\download\directx_sdk_9\include\xnamathvector.inl(1269): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
 c:\download\directx_sdk_9\include\xnamathmisc.inl(518): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
 c:\download\directx_sdk_9\include\xnamathmisc.inl(519): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
-  MatrixTrans.vcxproj -> E:\VisualStudio_Projects\MatrixTrans\Debug\MatrixTrans.exe
+  MatrixTrans.vcxproj -> E:\VisualStudio_Projects\DirectX11_3D\MatrixTrans\Debug\MatrixTrans.exe
