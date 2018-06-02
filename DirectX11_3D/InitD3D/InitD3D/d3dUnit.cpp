@@ -9,9 +9,9 @@
  ************************************************************************/
  #include "d3dUtility.h"
 
-ID3D11Device* device = NULL;                        // D3D11 设备指针
-IDXGISwapChain* swapChain = NULL;                   // 交换链指针
-ID3D11DeviceContext* immediateContext = NULL;       // 执行上下文指针
+ID3D11Device*           device           = NULL;    // D3D11 设备指针
+IDXGISwapChain*         swapChain        = NULL;    // 交换链指针
+ID3D11DeviceContext*    immediateContext = NULL;    // 执行上下文指针
 ID3D11RenderTargetView* renderTargetView = NULL;    // 渲染目标视图指针
 
 //************* 以下为框架函数 ***************

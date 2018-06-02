@@ -23,10 +23,10 @@
  */
 bool d3d::InitD3D(HINSTANCE hInstance, 
                   int width, int height, 
-                  ID3D11RenderTargetView ** renderTargerView, 
-                  ID3D11DeviceContext ** immediateContext, 
-                  IDXGISwapChain ** swapChain, 
-                  ID3D11Device ** device)
+                  ID3D11RenderTargetView** renderTargerView, 
+                  ID3D11DeviceContext** immediateContext, 
+                  IDXGISwapChain** swapChain, 
+                  ID3D11Device** device)
 {
     //************* 第一部分: 创建一个窗口开始 ***************
     // 这部分的代码和 2.2 节中创建窗口代码基本一致
