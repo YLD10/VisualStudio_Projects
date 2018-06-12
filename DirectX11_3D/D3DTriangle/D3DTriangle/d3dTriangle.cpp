@@ -101,6 +101,8 @@ bool Setup()
             NULL,                         // 指向 ID3D11ClassLinkage 的指针, 一般为空
             &pixelShader);                // 将创建好的像素着色器存放到 pixelShader 中
 
+    pPSBlob->Release();
+
     // 第三步, 创建并设置输入布局
     // 所谓输入布局, 就是制定顶点结构所包含信息的实际意义
     // D3D11_INPUT_ELEMENT_DESC 用于描述顶点结构的意义
@@ -112,7 +114,7 @@ bool Setup()
         {
             "POSITION",  // 语义标识符, 必须和 hlsl 文件中 VSMain 所用的标识符一致
             0,           // 表示第 1 个元素, 注意和数组一样都是从 0 开始计数,
-            DXGI_FORMAT_R32G32B32A32_FLOAT,  // 96 位浮点像素, 红绿蓝各 32 位
+            DXGI_FORMAT_R32G32B32_FLOAT,  // 96 位浮点像素, 红绿蓝各 32 位
             0,           // 可以取值 0 - 15, 0 表示绑定顶点缓存到第一个输入槽
             0,           // 可选项, 定义了缓存的对齐方式,
             D3D11_INPUT_PER_VERTEX_DATA,     // 定义输入数据类型为顶点数据
@@ -121,29 +123,33 @@ bool Setup()
     };
 
     // 获取输入布局中元素个数
-    UINT numElements   = ARRAYSIZE(layout);
+    UINT numElements = ARRAYSIZE(layout);
 
     // 声明一个输入布局对象 pVertexLayout 用于存放创建好的布局
     ID3D11InputLayout* pVertexLayout;
 
     // 调用 CreateInputLayout 创建输入布局
     device->CreateInputLayout(
-            layout,                     // 上面定义的 D3D11_INPUT_ELEMENT_DESC 数组
-            numElements,                // D3D11_INPUT_ElEMENT_DESC 数组的元素个数
+            layout,                       // 上面定义的 D3D11_INPUT_ELEMENT_DESC 数组
+            numElements,                  // D3D11_INPUT_ElEMENT_DESC 数组的元素个数
             pVSBlob->GetBufferPointer(),  // 指向顶点着色器起始位置的指针
             pVSBlob->GetBufferSize(),     // 指向顶点着色器的所在内存大小
-            &pVertexLayout);            // 返回生成的输入布局对象
+            &pVertexLayout);              // 返回生成的输入布局对象
+
+    pVSBlob->Release();
 
     // 设置生成的输入布局
     immediateContext->IASetInputLayout(pVertexLayout);
+
+    pVertexLayout->Release();
 
     // 第四步, 创建顶点缓存
     // 用我们自己定义的 Vertex 结构创建三角形的三个顶点坐标
     Vertex vertices[] = 
     {
-      XMFLOAT3(0.0f, 0.5f, 0.0f),
-      XMFLOAT3(0.5f, 0.0f, 0.0f),
-      XMFLOAT3(-0.5f, 0.0f, 0.0f)
+        XMFLOAT3(0.0f, 0.5f, 0.0f),
+        XMFLOAT3(0.5f, 0.0f, 0.0f),
+        XMFLOAT3(-0.5f, 0.0f, 0.0f)
     };
 
     // 填充 D3D11_BUFFER_DESC 结构, 这个结构是用来描述顶点缓存的属性
@@ -177,6 +183,8 @@ bool Setup()
                       &vertexBuffer,  // 创建好的顶点缓存
                       &stride,        // 跨度, 即顶点结构的大小
                       &offset);       // 缓存第一个元素到所用元素的偏移量
+
+    vertexBuffer->Release();
 
     // 指定图元类型, D3D11_PRIMITIVE_TOPOLOGY_TRIANGLELIST 表示图元为三角形
     immediateContext->IASetPrimitiveTopology(D3D11_PRIMITIVE_TOPOLOGY_TRIANGLELIST);
@@ -297,7 +305,3 @@ int WINAPI WinMain(HINSTANCE hInstance,
 
     return 0;
 }
-
-
- 
- 
