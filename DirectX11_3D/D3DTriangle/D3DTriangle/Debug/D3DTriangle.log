@@ -1,4 +1,4 @@
-﻿  d3dUtility.cpp
+﻿  d3dTriangle.cpp
 c:\download\directx_sdk_9\include\xnamath.h(2662): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
 c:\download\directx_sdk_9\include\xnamath.h(2663): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
 c:\download\directx_sdk_9\include\xnamath.h(2664): warning C4838: conversion from 'unsigned int' to 'INT' requires a narrowing conversion
@@ -93,8 +93,4 @@ c:\download\directx_sdk_9\include\d3d10.h(608): warning C4005: 'D3D10_ERROR_TOO_
   c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(54094): note: see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
 c:\download\directx_sdk_9\include\d3d10.h(609): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
   c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\winerror.h(54103): note: see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
-e:\visualstudio_projects\directx11_3d\initd3d\initd3d\d3dutility.cpp(97): error C2065: 'DXGI_FORMAT_B8G8R8_UNORM': undeclared identifier
-e:\visualstudio_projects\directx11_3d\initd3d\initd3d\d3dutility.cpp(183): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
-e:\visualstudio_projects\directx11_3d\initd3d\initd3d\d3dutility.cpp(184): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
-E:\VS_2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(380,5): error MSB6003: The specified task executable "CL.exe" could not be run. The requested operation cannot be performed on a file with a user-mapped section open.
-E:\VS_2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(380,5): error MSB6003: 
+  D3DTriangle.vcxproj -> E:\VisualStudio_Projects\DirectX11_3D\D3DTriangle\Debug\D3DTriangle.exe
